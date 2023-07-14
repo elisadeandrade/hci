@@ -1,0 +1,5 @@
+To run the site locally, use a local server.
+Otherwise the browser will not allow displaying images fromlocal files in some instances.
+
+One recomendation for an eays setup local server:
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
